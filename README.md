@@ -1,2 +1,3 @@
-# hello-world
-Newbie
+<?php
+echo 'Hello World!'
+?>
